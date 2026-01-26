@@ -101,8 +101,15 @@ I am **Yathin Kullachana Somaiah**, a passionate software engineer dedicated to 
 *   **JavaScript ES6 Certificate**
 *   **Kafka Fundamentals**
 
-## 📈 GitHub Stats
+"The best code isn't just written—it's architected.
 
+Over the last 10+ years, I've learned that 'functioning' is easy, but 'scalable' is hard.
+
+I'm documenting my journey in: 🔹 Microservices Design 🔹 Cloud Optimization 🔹 Full-Stack Performance
+
+Drop a 👋 if you're building in this space!"
+
+## 📈 GitHub Stats
 ![Yathin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yathin51&show_icons=true&theme=radical)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yathin51&layout=compact&theme=radical)
