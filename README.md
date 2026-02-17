@@ -110,9 +110,6 @@ I'm documenting my journey in: 🔹 Microservices Design 🔹 Cloud Optimization
 Drop a 👋 if you're building in this space!"
 
 ## 📈 GitHub Stats
-![Yathin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yathin51&show_icons=true&theme=radical)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yathin51&layout=compact&theme=radical)
-
+upcoming
 ---
 © 2025 Yathin Kullachana Somaiah. Built with Passion & Precision.
