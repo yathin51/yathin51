@@ -100,6 +100,9 @@ I am **Yathin Kullachana Somaiah**, a passionate software engineer dedicated to 
 *   **JS & React Bootcamp**
 *   **JavaScript ES6 Certificate**
 *   **Kafka Fundamentals**
+*   **Retreival Augmented-Generation**
+*   **Generative AI Engineering Mastermind**
+*   **Generative AI Mastermind**
 
 "The best code isn't just written—it's architected.
 
